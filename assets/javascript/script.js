@@ -9,6 +9,16 @@ $(document).ready(function() {
     localStorage.setItem(time, text);
   })
 
+  $("#9h .description").val(localStorage.getItem("9h"));
+  $("#10h .description").val(localStorage.getItem("10h"));
+  $("#11h .description").val(localStorage.getItem("11h"));
+  $("#12h .description").val(localStorage.getItem("12h"));
+  $("#13h .description").val(localStorage.getItem("13h"));
+  $("#14h .description").val(localStorage.getItem("14h"));
+  $("#15h .description").val(localStorage.getItem("15h"));
+  $("#16h .description").val(localStorage.getItem("16h"));
+  $("#17h .description").val(localStorage.getItem("17h"));
+
   var colorUpdate = function () {
 
     var currentHour = moment().hour();
