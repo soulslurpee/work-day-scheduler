@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-### URL : 
+### URL : https://soulslurpee.github.io/work-day-scheduler/
 
 ## Description
 A simple calendar scheduling application intended to show usage of jQuery, Bootstrap, Moment.js, and the utilization of local storage. Hour blocks are updated in real time. Users are able to add events to each hour block. The info is then saved into local storage for later recall.
