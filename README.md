@@ -29,6 +29,16 @@ A simple calendar scheduling application intended to show usage of jQuery, Boots
 - THEN the saved events persist
 ```
 
+## Technology Featured:
+```
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+- Moment.js
+```
+
 ## Mock-Up
 ![](assets/images/05-third-party-apis-homework-demo.gif)
 
